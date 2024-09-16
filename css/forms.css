@@ -1,0 +1,3 @@
+input:focus, textarea:focus {background-color: #ffd5aa;}
+textarea{width: 280px;	height: 150px; margin: 0 0 16px 10px;
+	border: 1px #bbb solid; padding: 5px; background: none;}
